@@ -14,7 +14,7 @@ follow there insruction/help...before and after downlording
 3)do it yourself... if any help requird use my notebook.ipynb or notebook.py for visual code studio or idea python editor.
 
 
-discribtion about this project.......
+Discribtion about this project.......
 
 
 Bitcoin and Cryptocurrencies: Full dataset, filtering, and reproducibility
